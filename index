@@ -5,13 +5,13 @@
     <link rel="icon" type="image/svg+xml" href="https://teacher-licence.netlify.app/vite.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com/">
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
-<link href="./سلم رواتب وترقيات المعلمين التفاعلي_files/css2" rel="stylesheet">
+<link href="./css2" rel="stylesheet">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>سلم رواتب وترقيات المعلمين التفاعلي</title>
    <!-- bg-gradient-to-tl from-indigo-100 via-teal-50 to-indigo-50 -->
-    <script type="module" crossorigin="" src="./سلم رواتب وترقيات المعلمين التفاعلي_files/index-124cdb2a.js"></script>
-    <link rel="stylesheet" href="./سلم رواتب وترقيات المعلمين التفاعلي_files/index-27c5cdc6.css">
+    <script type="module" crossorigin="" src="./index-124cdb2a.js"></script>
+    <link rel="stylesheet" href="./index-27c5cdc6.css">
   <style class="automa-element-selector">@font-face { font-family: "Inter var"; font-weight: 100 900; font-display: swap; font-style: normal; font-named-instance: "Regular"; src: url("chrome-extension://infppggnoaenmfagbfknfkancpbljcca/Inter-roman-latin.var.woff2") format("woff2") }
 .automa-element-selector { direction: ltr } 
  [automa-isDragging] { user-select: none } 
